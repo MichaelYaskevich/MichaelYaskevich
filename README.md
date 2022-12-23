@@ -1,7 +1,7 @@
 # 💫 ᗩᗷOᑌT ᗰE:
 ᕼI 👋🏻, I'ᗰ ᗰIKᕼᗩIᒪ YᗩSKEᐯIᑕᕼ
 
-ᗰᗩIᑎ ᑭᖇOᒍEᑕTS:
+# 💻 ᗰᗩIᑎ ᑭᖇOᒍEᑕTS:
  - (ᑭYTᕼOᑎ) https://github.com/MichaelYaskevich/GraphLib
  - (ᑕ#) https://github.com/MichaelYaskevich/ChartWorld
  - (ᒍᗩᐯᗩ) https://github.com/1Shadowscale1/Automats
