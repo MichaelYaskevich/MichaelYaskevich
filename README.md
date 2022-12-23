@@ -1,5 +1,5 @@
 # 💫 About Me:
-Привет 👋🏻, я Михаил Яскевич
+Hi 👋🏻, I'm Mikhail Yaskevich
 
 
 # 💻 Tech Stack:
