@@ -2,6 +2,9 @@
 Hi 👋🏻, I'm Mikhail Yaskevich
 
 # 💻 Main projects:
+#### DL
+ - https://github.com/MichaelYaskevich/GAN_FFHQ
+#### Backend
  - (python) https://github.com/MichaelYaskevich/GraphLib
  - (C#) https://github.com/MichaelYaskevich/ChartWorld
  - (Java) https://github.com/1Shadowscale1/Automats
